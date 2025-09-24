@@ -7,7 +7,7 @@
   "description": "* Node\r * Git\r * Text Editor (Recommended: VSCode)\r * GitHub Account + Permissions",
   "license": "ISC",
   "main": "index.js",
-  "name": "ops-webpages-2023-2024",
+  "name": "micromouse-webpages-2025-2026",
   "scripts": {
     "sass": "npx sass ./scss/custom.scss ./css/custom.css",
     "sass-watch": "npx sass --watch ./scss/custom.scss ./css/custom.css",
