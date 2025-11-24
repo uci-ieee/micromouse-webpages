@@ -30,7 +30,7 @@ document.write(`
                             <li><a class="dropdown-item" href="./schematic.html">Schematic</a></li>
                             <li><a class="dropdown-item" href="./KiCad.html">KiCad</a></li>
                             <li><a class="dropdown-item" href="./floodfill.html">Floodfill</a></li>
-                            <li hidden><a class="dropdown-item" href="./MM_simulation.html">Maze Simulation</a></li>
+                            <li><a class="dropdown-item" href="./MM_simulation.html">Maze Simulation</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
