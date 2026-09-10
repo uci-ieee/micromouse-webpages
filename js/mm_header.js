@@ -31,6 +31,9 @@ document.write(`
                             <li><a class="dropdown-item" href="./KiCad.html">KiCad</a></li>
                             <li><a class="dropdown-item" href="./floodfill.html">Floodfill</a></li>
                             <li><a class="dropdown-item" href="./MM_simulation.html">Maze Simulation</a></li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li><a class="dropdown-item" href="./modules.html?sheet=Git%20Tutorial">Git Tutorial</a></li>
+                            <li><a class="dropdown-item" href="./modules.html?sheet=Firmware%20Tutorial">Firmware Tutorial</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">

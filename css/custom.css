@@ -11867,9 +11867,9 @@ textarea.form-control-lg {
   overflow: hidden !important;
 }
 
-.landing-title-box .landing-title-box-background-mm {
+.landing-title-box .landing-title-box-background {
   /* The image used */
-  background-image: url("../assets/images/MM_first_day_pic.png");
+  background-image: url("../assets/images/ops_gallery_1.jpg");
   /* Add the blur effect */
   animation: blur 2s ease 1s 1 normal forwards;
   -webkit-animation: blur 2s ease 1s 1 normal forwards;
