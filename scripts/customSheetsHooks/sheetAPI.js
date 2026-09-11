@@ -6,7 +6,7 @@
 export const callSheetAPI = async (sheetName) => {
     try {
         // Use GET request with query parameters to avoid CORS issues
-        const url = new URL("https://script.google.com/macros/s/AKfycbxpkV19ycAhqLPwPfy4gZJozmhh448XEw1Wg1ZP9K5Fh7GkqZfW0t7vo8dukzUIbUI4dA/exec");
+        const url = new URL("https://script.google.com/macros/s/AKfycbwHX_hKhKc9KUfxkewUf6WAlWlnxIFZ5jmsAtROT9LfV7bYYR_8PdBpicGAAZ4BNcy0Nw/exec");
         url.searchParams.append('sheetName', sheetName);
         
         const response = await fetch(url.toString(), {
